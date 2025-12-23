@@ -1,4 +1,4 @@
-# Multimodal Image–Text Understanding System
+# Multimodal Image-Text Understanding System
 
 Built a multimodal AI system that jointly understands images and text to perform classification and explanation tasks using vision–language models.
 
