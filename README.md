@@ -38,7 +38,7 @@ pip install torch torchvision transformers pillow sentence-transformers scikit-l
 ```bash
 python run.py
 ```
-# Provide an image path and text prompts in the terminal
+Provide an image path and text prompts in the terminal
 
 ## Evaluation
 
@@ -46,7 +46,7 @@ The system is evaluated using basic classification accuracy and confidence score
 
 ## Summary
 
-Demonstrates applied multimodal learning
-Shows understanding of vision–language models
-Combines classification and explanation in one pipeline
-Reflects real-world multimodal AI systems used in practice
+1. Demonstrates applied multimodal learning
+2. Shows understanding of vision–language models
+3. Combines classification and explanation in one pipeline
+4. Reflects real-world multimodal AI systems used in practice
